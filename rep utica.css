@@ -1,0 +1,61 @@
+.headermenu{
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu{
+  padding-top: 30px;
+}
+
+.font{
+  font-size: 75px;
+}
+
+.margin{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.margin h1 button{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.font2{
+  font-size: 30px;
+}
+
+.piclist{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: end;
+}
+
+.margin div{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.background{
+  background-color: blueviolet;
+  color: white;
+}
+
+.banner{
+  width: 100%;
+  height: 700px;
+}
+
+.project{
+  width: 48%;
+  margin: 10px 10px 10px 10px;
+
+}
+
+.project img{
+  width: 100%;
+  height: 300px;
+
+}
